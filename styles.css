@@ -1,0 +1,154 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+ 
+.main-container{
+    width: 1200px;
+    margin: 40px auto;
+    background-color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+.personal-info{
+    display: flex;
+    flex-direction: column;
+    padding: 100px 88px;
+    
+}
+
+
+.profesion-description{
+    font-size: 14px;
+    font-weight: 700;
+
+}
+.text-description {
+    padding-right: 150px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 24px;
+}
+
+.name {
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.section-title{
+
+    margin-top: 45px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.proyects-list{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 17px;
+}
+
+.link-proyects{
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+
+.points{
+font-weight: 400;
+font-size: 16px;
+color: #595959;
+letter-spacing: 2px;
+}
+
+.section-subtitle{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.important-text{
+    color:#FB6D3A
+}
+
+.dates {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.activities-list{
+    width: 500px;
+    padding-left: 17px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+
+
+.secondary-info{
+    
+    padding: 40px 20px;
+    background-color: #1E2939;
+    
+}
+
+.secondary-info img {
+    width: 170px;
+    padding-left: 50px;
+    
+}
+
+.contact,.tech-skills,.soft-skills{
+    margin: 50px 40px;
+}
+
+.aside-title {
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.contact span {
+    color: white;
+    margin-right: 5px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.contact a {
+  color: white;
+  opacity: 0.5;
+}
+
+.aside-list > li {
+    padding: 0;
+    color: #FB6D3A;
+}
+
+.aside-list-element {
+    color: white;
+
+}
